@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 
-text: "Some test text here."
+sidebar:
+  - title: "Title"
+    image: http://placehold.it/350x250
+    image_alt: "image"
+    text: "Some text here."
